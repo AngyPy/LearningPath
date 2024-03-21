@@ -1,0 +1,3 @@
+Bug na verificação da data de nasciemento com a idade
+Bug para salvar o arquivo
+Bug na classe de usuario
